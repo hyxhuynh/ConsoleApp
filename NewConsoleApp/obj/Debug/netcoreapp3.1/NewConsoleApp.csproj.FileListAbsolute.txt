@@ -1,0 +1,13 @@
+C:\HyHuynh\Github\TrueCodersRepos\repos\NewConsoleApp\NewConsoleApp\bin\Debug\netcoreapp3.1\NewConsoleApp.exe
+C:\HyHuynh\Github\TrueCodersRepos\repos\NewConsoleApp\NewConsoleApp\bin\Debug\netcoreapp3.1\NewConsoleApp.deps.json
+C:\HyHuynh\Github\TrueCodersRepos\repos\NewConsoleApp\NewConsoleApp\bin\Debug\netcoreapp3.1\NewConsoleApp.runtimeconfig.json
+C:\HyHuynh\Github\TrueCodersRepos\repos\NewConsoleApp\NewConsoleApp\bin\Debug\netcoreapp3.1\NewConsoleApp.runtimeconfig.dev.json
+C:\HyHuynh\Github\TrueCodersRepos\repos\NewConsoleApp\NewConsoleApp\bin\Debug\netcoreapp3.1\NewConsoleApp.dll
+C:\HyHuynh\Github\TrueCodersRepos\repos\NewConsoleApp\NewConsoleApp\bin\Debug\netcoreapp3.1\NewConsoleApp.pdb
+C:\HyHuynh\Github\TrueCodersRepos\repos\NewConsoleApp\NewConsoleApp\obj\Debug\netcoreapp3.1\NewConsoleApp.csprojAssemblyReference.cache
+C:\HyHuynh\Github\TrueCodersRepos\repos\NewConsoleApp\NewConsoleApp\obj\Debug\netcoreapp3.1\NewConsoleApp.AssemblyInfoInputs.cache
+C:\HyHuynh\Github\TrueCodersRepos\repos\NewConsoleApp\NewConsoleApp\obj\Debug\netcoreapp3.1\NewConsoleApp.AssemblyInfo.cs
+C:\HyHuynh\Github\TrueCodersRepos\repos\NewConsoleApp\NewConsoleApp\obj\Debug\netcoreapp3.1\NewConsoleApp.csproj.CoreCompileInputs.cache
+C:\HyHuynh\Github\TrueCodersRepos\repos\NewConsoleApp\NewConsoleApp\obj\Debug\netcoreapp3.1\NewConsoleApp.dll
+C:\HyHuynh\Github\TrueCodersRepos\repos\NewConsoleApp\NewConsoleApp\obj\Debug\netcoreapp3.1\NewConsoleApp.pdb
+C:\HyHuynh\Github\TrueCodersRepos\repos\NewConsoleApp\NewConsoleApp\obj\Debug\netcoreapp3.1\NewConsoleApp.genruntimeconfig.cache
